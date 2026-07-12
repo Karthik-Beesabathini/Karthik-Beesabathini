@@ -1,5 +1,6 @@
 # 💫 About Me:
 HI ! i am karthik
+Currently Working on mobile applications
 
 
 ## 🌐 Socials:
